@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "name": "S 1",
+      "height": 2.5,
+      "width": 4,
+      "type": "stand",
+      "exhibitor": 1 
+    },
+    {
+        "id": 2,
+        "name": "S 2",
+        "height": 2.5,
+        "width": 3,
+        "type": "stand",
+        "exhibitor": null
+    },
+    {
+        "id": 3,
+        "name": "S 3",
+        "height": 2.5,
+        "width": 3,
+        "type": "stand",
+        "exhibitor": 2
+        
+      },
+      {
+        "id": 4,
+        "height": 2,
+        "width": 10,
+        "type": "walk"
+    },
+      {
+        "id": 5,
+        "height": 2.5,
+        "width": 2,
+        "type": "walk"
+        
+    },
+    {
+        "id": 6,
+        "name": "S 4",
+        "height": 2.5,
+        "width": 3,
+        "free": 0,
+        "type": "stand",
+        "exhibitor": 3
+    },
+    {
+        "id": 7,
+        "name": "S 5",
+        "height": 2.5,
+        "width": 3,
+        "type": "stand",
+        "exhibitor": null
+    },
+    {
+        "id": 8,
+        "height": 2.5,
+        "width": 2,
+        "type": "walk"
+        
+    },
+    {
+        "id": 9,
+        "height": 3,
+        "width": 2,
+        "type": "walk"
+    },
+    {
+        "id": 10,
+        "name": "S 6",
+        "height": 3,
+        "width": 3,
+        "type": "stand",
+        "exhibitor": null
+    },
+    {
+        "id": 11,
+        "name": "S 7",
+        "height": 3,
+        "width": 3,
+        "type": "stand",
+        "exhibitor": null
+    },
+    {
+        "id": 12,
+        "height": 3,
+        "width": 2,
+        "type": "walk"
+        
+    }
+
+]    

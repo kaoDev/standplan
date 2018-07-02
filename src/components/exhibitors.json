@@ -1,0 +1,24 @@
+[
+    {
+     "id": 1,
+     "name": "Company 1",
+     "logo": "http://jiayuhk.com/sc/assets/img/sample/shortcode/logo/1.png",
+     "field": "IT, app- & Webdevelopment",
+     "description": "We are looking for software engineers - as everybody is!"
+    },
+   {
+    "id": 2,   
+    "name": "Batman",
+    "logo": "http://franverona.com/loadgo/logos/batman.png",
+    "field": "Survialance, Security, Rescue",
+    "description": "Hold my Beer!..."
+    },
+        
+    {
+    "id": 3,
+    "name": "RandomComP",
+    "Logo": "http://gantry-1927.kxcdn.com/user/pages/02.blog/gantry-logo-competition/grav-logo.png",
+    "field": "Hustling",
+    "description": "No shady business at our place! We work hard but pay well"
+    }
+]
