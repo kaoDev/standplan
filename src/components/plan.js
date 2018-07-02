@@ -41,7 +41,7 @@ export class Plan extends React.Component {
   };
 
   updateModalTarget = ModalTarget => {
-    this.setState({ ModalTarget });
+    this.setState({ ModalTarget, ModalOpen: true });
     console.log(ModalTarget);
   };
 
